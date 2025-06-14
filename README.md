@@ -128,3 +128,8 @@ ai-career-coach-1/
 ├── requirements.txt
 └── app.py # Main Flask entry
 
+# 🎯 AI Career Coach
+
+🔗 **Live Demo**: [https://ai-career-guide-ten.vercel.app/](https://ai-career-guide-ten.vercel.app/)
+
+
